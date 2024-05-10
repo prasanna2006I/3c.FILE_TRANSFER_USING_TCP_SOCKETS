@@ -1,4 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# NAME:PRASANNA I
+# REG:212223220079
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
